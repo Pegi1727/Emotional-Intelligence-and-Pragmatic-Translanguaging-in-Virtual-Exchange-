@@ -79,5 +79,7 @@ The research investigates how **Trait Emotional Intelligence (TEIQue-SF)** influ
 │   ├── 01_data_preprocessing.ipynb
 │   └── ...
 └── r_scripts/                        # R analysis pipeline (01 to 05)
+---
+Merrikhi, Pegah. 2026. Emotional Intelligence and Pragmatic Translanguaging in Virtual Exchange: A Quantitative Analysis of Interactional Patterns. Research repository and dataset.
 ├── 01_data_preprocessing.R
 └── ...
