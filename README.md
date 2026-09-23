@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![R 4.0+](https://img.shields.io/badge/R-4.0%2B-276DC3.svg)](https://www.r-project.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22924136.svg)](https://doi.org/10.5281/zenodo.22924136)
 
 ---
 
