@@ -57,6 +57,19 @@ If you use this dataset, code, or findings in your research, please cite:
 > Merrikhi, P. (2026). *Replication Data and Analysis Pipeline for: Emotional Intelligence and Pragmatic Translanguaging in Virtual Exchange* (Version 1.0) [Data set & Software]. Zenodo. https://doi.org/10.5281/zenodo.22924136
 
 ---
+@misc{merrikhi_2026_22924136,
+  author       = {Merrikhi, Pegah},
+  title        = {{Replication Data and Analysis Pipeline for: Emotional 
+                   Intelligence and Pragmatic Translanguaging in Virtual
+                   Exchange}},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.22924136},
+  url          = {https://doi.org/10.5281/zenodo.22924136}
+}
+---
 
 ## 🗂️ Repository Structure
 ```text
@@ -86,21 +99,6 @@ If you use this dataset, code, or findings in your research, please cite:
 ├── notebooks/                        # Interactive Jupyter Notebooks (01 to 07)
 │   ├── 01_data_preprocessing.ipynb
 │   └── ...
----
-bibtex
-@misc{merrikhi_2026_22924136,
-  author       = {Merrikhi, Pegah},
-  title        = {{Replication Data and Analysis Pipeline for: Emotional 
-                   Intelligence and Pragmatic Translanguaging in Virtual
-                   Exchange}},
-  month        = sep,
-  year         = 2026,
-  publisher    = {Zenodo},
-  version      = {1.0},
-  doi          = {10.5281/zenodo.22924136},
-  url          = {https://doi.org/10.5281/zenodo.22924136}
-}
----
 └── r_scripts/                        # R analysis pipeline (01 to 05)
 ---
 
