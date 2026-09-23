@@ -8,9 +8,7 @@
 
 ## 📊 Graphical Abstract
 
-<p align="center">
-  <img src="figures/graphical-abstract.png" alt="Graphical-Abstract" width="85%"/>
-</p>
+![Graphical Abstract](Figures/graphical_abstract.png)
 
 ---
 
@@ -35,14 +33,13 @@ The research investigates how **Trait Emotional Intelligence (TEIQue-SF)** influ
 
 ### 🖼️ Publication Figures Showcase
 
-<p align="center">
-  <img src="figures/figure1_correlation_matrix.png" alt="Figure 1: Correlation Matrix" width="48%"/>
-  <img src="figures/figure2_regression_models.png" alt="Figure 2: Regression Models" width="48%"/>
-</p>
-<p align="center">
-  <img src="figures/figure3_group_comparisons.png" alt="Figure 3: Group Comparisons" width="48%"/>
-  <img src="figures/figure4_pragmatic_distribution.png" alt="Figure 4: Pragmatic Distribution" width="48%"/>
-</p>
+| Figure 1: Correlation Matrix | Figure 2: Regression Models |
+| :---: | :---: |
+| ![Correlation Matrix](Figures/figure1_correlation_matrix.png) | ![Regression Models](Figures/figure2_regression_models.png) |
+
+| Figure 3: Group Comparisons | Figure 4: Pragmatic Distribution |
+| :---: | :---: |
+| ![Group Comparisons](Figures/figure3_group_comparisons.png) | ![Pragmatic Distribution](Figures/figure4_pragmatic_distribution.png) |
 
 ---
 
@@ -59,7 +56,7 @@ The research investigates how **Trait Emotional Intelligence (TEIQue-SF)** influ
 ├── README.md                         # Repository documentation
 ├── requirements.txt                  # Python dependencies
 ├── environment.yml                   # Conda environment configuration
-├── figures/                          # Publication-ready figures & graphical abstract
+├── Figures/                          # Publication-ready figures & graphical abstract
 │   ├── figure1_correlation_matrix.png
 │   ├── figure2_regression_models.png
 │   ├── figure3_group_comparisons.png
