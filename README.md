@@ -9,7 +9,7 @@
 ## 📊 Graphical Abstract
 
 <p align="center">
-  <img src="figures/graphical_abstract.png" alt="Graphical Abstract" width="85%"/>
+  <img src="figures/graphical-abstract.png" alt="Graphical-Abstract" width="85%"/>
 </p>
 
 ---
