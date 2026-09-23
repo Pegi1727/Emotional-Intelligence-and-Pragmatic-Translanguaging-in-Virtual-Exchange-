@@ -50,7 +50,12 @@ The research investigates how **Trait Emotional Intelligence (TEIQue-SF)** influ
 3. **Implications:** Emotional intelligence is a core predictor of pragmatic success in digital intercultural communication, highlighting the necessity of integrating socio-emotional skill development into virtual exchange frameworks.
 
 ---
-Merrikhi, Pegah. 2026. Emotional Intelligence and Pragmatic Translanguaging in Virtual Exchange: A Quantitative Analysis of Interactional Patterns. Research repository and dataset.
+## 📜 Citation
+
+If you use this dataset, code, or findings in your research, please cite:
+
+> Merrikhi, P. (2026). *Replication Data and Analysis Pipeline for: Emotional Intelligence and Pragmatic Translanguaging in Virtual Exchange* (Version 1.0) [Data set & Software]. Zenodo. https://doi.org/10.5281/zenodo.22924136
+
 ---
 
 ## 🗂️ Repository Structure
