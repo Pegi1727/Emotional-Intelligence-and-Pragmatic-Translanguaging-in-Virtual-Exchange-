@@ -1,0 +1,31 @@
+{
+  "file": "dataset_full.csv",
+  "n": 100,
+  "variables": {
+    "P_ID": "Participant ID (P01-P100)",
+    "EQ": "Emotional Intelligence (BarOn/TEIQue-SF total score, 65-145)",
+    "Turns": "Conversation turns",
+    "TT": "Task Time (minutes)",
+    "C1": "Pragmatic function 1: Request/Directive count",
+    "C2": "Pragmatic function 2: Affective/Emotional expression count",
+    "C3": "Pragmatic function 3: Assertive count",
+    "C4": "Pragmatic function 4: Maladaptive/Impulsive count",
+    "C5": "Pragmatic function 5: Inhibited/Withdrawn count",
+    "TI": "Task Involvement (%)",
+    "RelSol": "Relational Solution score (%)"
+  },
+  "derived": {
+    "EI_group": "EQ tertile: Low/Medium/High",
+    "EQ_z": "EQ z-score",
+    "EQ_z etc": "z-scores",
+    "EQ_minmax etc": "min-max normalized 0-1"
+  },
+  "EI_groups": {
+    "Low": "EQ <= 102.00",
+    "Medium": "102.00 < EQ <= 118.00",
+    "High": "EQ > 118.00"
+  },
+  "files": [
+    "01..21 processed files"
+  ]
+}
